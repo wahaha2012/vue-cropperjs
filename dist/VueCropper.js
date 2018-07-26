@@ -44,7 +44,7 @@ var CropperComponent = _vue2.default.extend({
         'dragMode': String,
         'aspectRatio': Number,
         'data': Object,
-        'preview': [String, Array, Element, NodeList],
+        'preview': String,
         'responsive': {
             type: Boolean,
             default: true
