@@ -1,7 +1,7 @@
 {
-  "name": "vue-cropperjs",
-  "version": "2.2.1",
-  "description": "A Vue wrapper component for cropperjs",
+  "name": "vue-cropperjs-forward",
+  "version": "2.2.2",
+  "description": "A Vue wrapper component for cropperjs, forked from Agontuk/vue-cropperjs",
   "main": "dist/VueCropper.js",
   "keywords": [
     "vue",
@@ -14,13 +14,13 @@
     "build": "babel -d dist VueCropper.js --no-comments"
   },
   "author": {
-    "name": "Iftekhar Rifat",
-    "email": "rifat662@gmail.com",
-    "url": "https://github.com/Agontuk"
+    "name": "wxwdesign",
+    "email": "wxwdesign@gmail.com",
+    "url": "https://github.com/wahaha2012"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Agontuk/vue-cropperjs.git"
+    "url": "https://github.com/wahaha2012/vue-cropperjs.git"
   },
   "license": "MIT",
   "dependencies": {

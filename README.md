@@ -1,4 +1,6 @@
 # vue-cropperjs
+Forked from [Agontuk/vue-cropperjs](https://agontuk.github.io/vue-cropperjs/) for personal usage
+
 A Vue wrapper component for [cropperjs](https://github.com/fengyuanchen/cropperjs).
 
 [![NPM](https://nodei.co/npm/vue-cropperjs.png?downloads=true)](https://nodei.co/npm/vue-cropperjs/)
@@ -8,7 +10,7 @@ Checkout here **[agontuk.github.io/vue-cropperjs](https://agontuk.github.io/vue-
 
 ## Installation
 ```shell
-npm install --save vue-cropperjs
+npm install --save vue-cropperjs-forward
 ```
 
 For Vue 1.0, use
@@ -21,7 +23,7 @@ npm install --save vue-cropperjs@1.0.3
 
 ## Usage
 ```js
-import VueCropper from 'vue-cropperjs';
+import VueCropper from 'vue-cropperjs-forward';
 
 ...
 <vue-cropper
